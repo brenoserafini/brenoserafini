@@ -1,20 +1,12 @@
-### Oláar 👋 Eu sou o Breno Serafini!
+### Oláar! ✌️ Eu sou o Breno Serafini...
+---
 
-- 🚀 Atualmente trabalho como dev fron-end na Persora
-- 🌱 Tenho estudado um pouco de Angular
-- 😄 Pronomes: ele/dele
+<img align="right" alt="Killua-Gif" height="140" style="border-radius: 50px;" src="https://brenoserafini.com/killuaGif.gif">
 
-<!--
-**brenoserafini/brenoserafini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Atualmente trabalho como desenvolvedor fronend;
+- 🌱 tenho estudado um pouco de Angular;
+- 👾 estou migrando algumas coisas do Bitbucket para o GitHub;
+- 🥰 e adoraria conversar com você sobre quaisquer assuntos. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - ⚡ FunFact:  -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenoserafini&&color=dc143c" alt="brenoserafini"/> </p> -->
