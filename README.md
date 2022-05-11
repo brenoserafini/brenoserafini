@@ -7,6 +7,6 @@
 - 🌱 tenho estudado um pouco de Angular;
 - 👾 estou migrando algumas coisas do Bitbucket para o GitHub;
 - 🥰 e adoraria conversar com você sobre quaisquer assuntos. 
-
+<br>
 <!-- - ⚡ FunFact:  -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenoserafini&&color=dc143c" alt="brenoserafini"/> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brenoserafini&&color=dc143c" alt="brenoserafini"/> </p>
