@@ -1,4 +1,8 @@
-### Hi there 👋
+### Oláar 👋 Eu sou o Breno Serafini!
+
+- 🚀 Atualmente trabalho como dev fron-end na Persora
+- 🌱 Tenho estudado um pouco de Angular
+- 😄 Pronomes: ele/dele
 
 <!--
 **brenoserafini/brenoserafini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
