@@ -1,7 +1,7 @@
 ### Oláar! ✌️ Eu sou o Breno Serafini...
 ---
 
-<img align="right" alt="Killua-Blink" height="140" style="border-radius: 5px;" src="https://brenoserafini.com/killuaBlink.gif">
+<img align="right" alt="Killua-Blink" height="120" style="border-radius: 5px;" src="https://brenoserafini.com/killuaGif.gif">
 
 - 🚀 Atualmente trabalho como desenvolvedor frontend;
 - 🌱 tenho estudado um pouco de Angular;
